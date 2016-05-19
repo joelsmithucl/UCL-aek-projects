@@ -14,7 +14,7 @@ var Screen = React.createClass({
           <BasicSegment>
             <p>Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.</p>
             <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</p>
-            <p>Sed posuere consectetur est at lobortis.</p>
+            <p>Sed posuere Joel est at lobortis.</p>
           </BasicSegment>
 
         </VBox>
